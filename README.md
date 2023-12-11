@@ -30,6 +30,6 @@ After having the right setup above
 
 1. Clone this repository into a given folder on your computer.
 2. Navigate to the root of this repository from your command line
-3. Run the command `Jupyter Notebook` in that directory to start the Jupyter server.
+3. Run the comme `jupyter notebook` in that directory to start the Jupyter server.
 4. In the browser window that opens, select a workshop from the list and start coding along.
 
