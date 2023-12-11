@@ -4,15 +4,15 @@ Welcome to the repository for the Free Java Bootcamp workshop! Here, you will fi
 
 ## Getting Setup
 
-Follow the steps below in order setup your development environment for executing the excersices.
+Follow the steps below in order to set up your development environment for executing the exercises.
 
 ### 1. Install pip and python
 
-Jupiter notebooks uses python to run. Visit [this link](https://www.python.org/downloads/) to download and intall Python for your developement environment.
+Jupiter Notebooks uses Python to run. Visit [this link](https://www.python.org/downloads/) to download and install Python for your development environment.
 
 ### 2. Install Jupyter notebooks
 
-After installing python, use pip to install Jupyter notebooks. as shown on [this short guide](https://jupyter.org/install)
+After installing Python, use pip to install Jupyter notebooks. as shown in [this short guide](https://jupyter.org/install)
 We recommend using Classic Jupyter notebooks but any of the flavors listed is also okay.
 
 ### 3. Install JDK 9+
@@ -22,7 +22,7 @@ You can install the latest version of OpenJDK by following [this link](https://o
 
 ### 4. Install IJava
 
-Finally install IJava by following the steps in [this documentation](https://github.com/SpencerPark/IJava#installing)
+Finally, install IJava by following the steps in [this documentation](https://github.com/SpencerPark/IJava#installing)
 
 ## Running
 
@@ -30,6 +30,6 @@ After having the right setup above
 
 1. Clone this repository into a given folder on your computer.
 2. Navigate to the root of this repository from your command line
-3. Run the comme `Jupyter Notebook` in that directory to start the Jupyter server.
+3. Run the command `Jupyter Notebook` in that directory to start the Jupyter server.
 4. In the browser window that opens, select a workshop from the list and start coding along.
 
